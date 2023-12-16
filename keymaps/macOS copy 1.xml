@@ -1,0 +1,17 @@
+<keymap version="1" name="macOS copy 1" parent="Mac OS X 10.5+">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift meta alt o" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift meta alt o" />
+  </action>
+  <action id="copilot.disableCopilot">
+    <keyboard-shortcut first-keystroke="ctrl meta alt o" />
+  </action>
+  <action id="copilot.enableCopilot">
+    <keyboard-shortcut first-keystroke="ctrl meta alt o" />
+  </action>
+  <action id="copilot.openCopilot">
+    <keyboard-shortcut first-keystroke="ctrl meta alt enter" />
+  </action>
+</keymap>

@@ -1,0 +1,34 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="shift meta alt o" />
+  </action>
+  <action id="Activatepdai.techToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.SplitLine" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="DatabaseView.Tools" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="Docker.RemoteServers.StartComposeService" />
+  <action id="Docker.RemoteServers.StartContainer" />
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="shift meta alt o" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="ProblemsView.QuickFixes" />
+  <action id="SetShortcutAction" />
+  <action id="ShowIntentionActions" />
+  <action id="SplitChooser.Duplicate" />
+  <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="ViewSource" />
+  <action id="copilot.enableCopilot">
+    <keyboard-shortcut first-keystroke="ctrl meta alt o" />
+  </action>
+  <action id="copilot.openCopilot">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+</keymap>
