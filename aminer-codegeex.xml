@@ -1,5 +1,6 @@
 <application>
   <component name="aminer-codegeex">
+    <option name="telemetryConfigured" value="true" />
     <option name="sessionId" value="445dc292-5f0e-4a26-8f17-fe1e68c0118c" />
     <option name="userId" value="fae5a29b82c949e3bdcf3031bbe682e8" />
     <option name="userName" value="新用户10015" />
