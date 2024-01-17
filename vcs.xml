@@ -378,6 +378,10 @@
           <option name="url" value="https://github.com/ZhongFuCheng3y/austin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.dev.sh.ctripcorp.com:fintech_service/platform-callback.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/C - Ctrip/IdeaProjects" />
