@@ -70,6 +70,7 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="358" />
     <histories>
+      <item value="Factory and utility methods for" />
       <item value="A Future which forwards all its method calls to another future. Subclasses should override one or more methods to modify the behavior of the backing future as desired per the decorator pattern ." />
       <item value="Forwarding Future" />
       <item value="An immutable snapshot of the current state of the service. This class represents a consistent snapshot of the state and therefore it can be used to answer simple queries without needing to grab a lock." />
@@ -119,12 +120,11 @@
       <item value="辅导时间九分裤" />
       <item value="al&lt;T&gt; withType() { return (Optional" />
       <item value="发多少客服都是" />
-      <item value="Gwt Compatible" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="44" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
