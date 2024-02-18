@@ -379,12 +379,32 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@git.dev.sh.ctripcorp.com:fintech_service/platform-callback.git" />
+          <option name="url" value="git@git.dev.sh.ctripcorp.com:fintech-infr/fintech-hp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:qiurunze123/threadandjuc.git" />
+          <option name="url" value="git@git.dev.sh.ctripcorp.com:fintech_service/fintech-bom.git" />
           <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.dev.sh.ctripcorp.com:fintech_service/kvseq-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.dev.sh.ctripcorp.com:fintech_service/mapping-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.dev.sh.ctripcorp.com:fintech_service/fintech-var-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.sh.ctripcorp.com/fintech_service/fintech-var.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.dev.sh.ctripcorp.com" />
+          <option name="userName" value="sli9" />
         </UrlAndUserName>
       </list>
     </option>
