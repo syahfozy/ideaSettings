@@ -4,7 +4,7 @@
     <property name="created">2022-06-22T15:19:57</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2024-02-28T13:58:52</property>
+    <property name="modified">2022-09-05T16:04:16</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -84,6 +84,7 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="79b8ff" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="79b8ff" />
     <option name="FILESTATUS_OBSOLETE" value="959da5" />
+    <option name="FILESTATUS_RENAMED" value="2aa298" />
     <option name="FILESTATUS_SUPPRESSED" value="959da5" />
     <option name="FILESTATUS_SWITCHED" value="ffab70" />
     <option name="FILESTATUS_UNKNOWN" value="ffab70" />
@@ -494,6 +495,7 @@
       <value>
         <option name="FOREGROUND" value="79b8ff" />
         <option name="EFFECT_COLOR" value="79b8ff" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
