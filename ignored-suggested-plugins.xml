@@ -4,6 +4,8 @@
       <list>
         <option value="com.intellij.bigdatatools" />
         <option value="com.intellij.guice" />
+        <option value="com.intellij.spring.websocket" />
+        <option value="com.intellij.dubbo" />
       </list>
     </option>
   </component>
