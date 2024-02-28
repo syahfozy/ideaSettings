@@ -1,0 +1,291 @@
+<application>
+  <component name="ToolWindowLayout"><![CDATA[{
+  "layouts": {
+    "Custom": {
+      "v2": [
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "weight": 0.25
+        },
+        {
+          "id": "Commit",
+          "order": 1,
+          "weight": 0.25
+        },
+        {
+          "id": "Structure",
+          "order": 2,
+          "weight": 0.25,
+          "isSplit": true
+        },
+        {
+          "id": "Notifications",
+          "order": 0,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "weight": 0.25
+        },
+        {
+          "id": "AIAssistant",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Database",
+          "order": 2,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Gradle",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Maven",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 2,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Terminal",
+          "order": 3,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM"
+        }
+      ]
+    },
+    "My Layout": {
+      "v2": [
+        {
+          "id": "Space Code Reviews"
+        },
+        {
+          "id": "Bookmarks",
+          "weight": 0.17661831,
+          "isSplit": true
+        },
+        {
+          "id": "Merge Requests",
+          "isShowStripeButton": false,
+          "weight": 0.17661831
+        },
+        {
+          "id": "Pull Requests"
+        },
+        {
+          "id": "Learn",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.250279
+        },
+        {
+          "id": "Commit",
+          "order": 1,
+          "weight": 0.25
+        },
+        {
+          "id": "Structure",
+          "order": 2,
+          "weight": 0.25,
+          "isSplit": true
+        },
+        {
+          "id": "Leetcode",
+          "order": 2
+        },
+        {
+          "id": "Welcome to GitHub Copilot",
+          "order": 3,
+          "isShowStripeButton": false,
+          "weight": 0.17661831
+        },
+        {
+          "id": "Database Changes",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "TypeScript",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Leetcode Console",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Profiler",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "TODO",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "File Transfer",
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 2,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Terminal",
+          "order": 3,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "CheckStyle",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Analysis",
+          "order": 6,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Build",
+          "order": 8,
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.33013698
+        },
+        {
+          "id": "Endpoints",
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Mybatis datasource",
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "Beans",
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Meet New UI",
+          "anchor": "RIGHT",
+          "isSplit": true
+        },
+        {
+          "id": "Notifications",
+          "order": 0,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "weight": 0.25
+        },
+        {
+          "id": "AIAssistant",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Database",
+          "order": 2,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Gradle",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Key Promoter X",
+          "order": 4,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Maven",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Translation.Wordbook",
+          "order": 5,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.33007812,
+          "isSplit": true
+        },
+        {
+          "id": "Mybatis Sql",
+          "order": 7,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "github.copilotToolWindow",
+          "order": 9,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "pdai.tech",
+          "order": 10,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "GitHub Copilot Chat",
+          "order": 11,
+          "anchor": "RIGHT"
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.250279,
+        "bottom": 0.33,
+        "right": 0.33
+      }
+    }
+  }
+}]]></component>
+</application>
