@@ -1,5 +1,6 @@
 <application>
   <component name="ToolWindowLayout"><![CDATA[{
+  "activeLayoutName": "SF Layout",
   "layouts": {
     "Custom": {
       "v2": [
@@ -21,6 +22,31 @@
           "isSplit": true
         },
         {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 2,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Terminal",
+          "order": 3,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Services",
+          "order": 4,
+          "anchor": "BOTTOM"
+        },
+        {
           "id": "Notifications",
           "order": 0,
           "anchor": "RIGHT",
@@ -50,51 +76,22 @@
           "order": 4,
           "anchor": "RIGHT",
           "weight": 0.25
-        },
-        {
-          "id": "Version Control",
-          "order": 0,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "Problems",
-          "order": 1,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "Problems View",
-          "order": 2,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "Terminal",
-          "order": 3,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "Services",
-          "order": 4,
-          "anchor": "BOTTOM"
         }
       ]
     },
-    "My Layout": {
+    "SF Layout": {
       "v2": [
         {
-          "id": "Space Code Reviews"
-        },
-        {
-          "id": "Bookmarks",
-          "weight": 0.17661831,
-          "isSplit": true
+          "id": "Space Code Reviews",
+          "isShowStripeButton": false
         },
         {
           "id": "Merge Requests",
-          "isShowStripeButton": false,
-          "weight": 0.17661831
+          "isShowStripeButton": false
         },
         {
-          "id": "Pull Requests"
+          "id": "Pull Requests",
+          "isShowStripeButton": false
         },
         {
           "id": "Learn",
@@ -106,57 +103,71 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.250279
+          "weight": 0.18816137
+        },
+        {
+          "id": "Bookmarks",
+          "order": 1,
+          "weight": 0.2667857
         },
         {
           "id": "Commit",
-          "order": 1,
-          "weight": 0.25
-        },
-        {
-          "id": "Structure",
           "order": 2,
-          "weight": 0.25,
-          "isSplit": true
-        },
-        {
-          "id": "Leetcode",
-          "order": 2
+          "weight": 0.25
         },
         {
           "id": "Welcome to GitHub Copilot",
           "order": 3,
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Structure",
+          "order": 4,
           "isShowStripeButton": false,
-          "weight": 0.17661831
-        },
-        {
-          "id": "Database Changes",
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "TypeScript",
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "Leetcode Console",
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "Profiler",
-          "anchor": "BOTTOM"
+          "weight": 0.25,
+          "isSplit": true
         },
         {
           "id": "TODO",
-          "anchor": "BOTTOM"
+          "order": 5,
+          "weight": 0.31498295,
+          "isSplit": true
+        },
+        {
+          "id": "Leetcode",
+          "order": 6,
+          "isSplit": true
+        },
+        {
+          "id": "Database Changes",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "TypeScript",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Leetcode Console",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Profiler",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
         },
         {
           "id": "File Transfer",
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
         },
         {
           "id": "Version Control",
           "order": 0,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "weight": 0.32973891
         },
         {
           "id": "Problems",
@@ -166,65 +177,77 @@
         {
           "id": "Problems View",
           "order": 2,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "weight": 0.32973891
         },
         {
           "id": "Terminal",
           "order": 3,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "CheckStyle",
-          "order": 4,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "weight": 0.32996434
         },
         {
           "id": "Services",
           "order": 4,
-          "anchor": "BOTTOM"
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false,
+          "weight": 0.32996434
         },
         {
-          "id": "Analysis",
+          "id": "Run",
+          "order": 5,
+          "anchor": "BOTTOM",
+          "weight": 0.32996434
+        },
+        {
+          "id": "Build",
           "order": 6,
           "anchor": "BOTTOM"
         },
         {
-          "id": "Build",
-          "order": 8,
+          "id": "Debug",
+          "order": 7,
           "anchor": "BOTTOM",
-          "isShowStripeButton": false,
-          "weight": 0.33013698
+          "weight": 0.32996434
+        },
+        {
+          "id": "CheckStyle",
+          "order": 8,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Analysis",
+          "order": 9,
+          "anchor": "BOTTOM"
         },
         {
           "id": "Endpoints",
-          "anchor": "RIGHT"
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
         },
         {
           "id": "Mybatis datasource",
           "anchor": "RIGHT",
+          "isShowStripeButton": false,
           "isSplit": true
         },
         {
           "id": "Beans",
-          "anchor": "RIGHT"
-        },
-        {
-          "id": "Meet New UI",
           "anchor": "RIGHT",
-          "isSplit": true
+          "isShowStripeButton": false
         },
         {
           "id": "Notifications",
           "order": 0,
           "anchor": "RIGHT",
-          "contentUiType": "COMBO",
-          "weight": 0.25
+          "weight": 0.25035715
         },
         {
           "id": "AIAssistant",
           "order": 1,
           "anchor": "RIGHT",
-          "weight": 0.25
+          "isShowStripeButton": false,
+          "weight": 0.33035713
         },
         {
           "id": "Database",
@@ -237,12 +260,6 @@
           "order": 3,
           "anchor": "RIGHT",
           "weight": 0.25
-        },
-        {
-          "id": "Key Promoter X",
-          "order": 4,
-          "anchor": "RIGHT",
-          "isShowStripeButton": false
         },
         {
           "id": "Maven",
@@ -255,35 +272,58 @@
           "order": 5,
           "anchor": "RIGHT",
           "isShowStripeButton": false,
-          "weight": 0.33007812,
           "isSplit": true
         },
         {
-          "id": "Mybatis Sql",
-          "order": 7,
-          "anchor": "RIGHT"
-        },
-        {
-          "id": "github.copilotToolWindow",
-          "order": 9,
-          "anchor": "RIGHT"
-        },
-        {
           "id": "pdai.tech",
+          "order": 6,
+          "anchor": "RIGHT",
+          "weight": 0.32969576
+        },
+        {
+          "id": "Hierarchy",
+          "order": 7,
+          "anchor": "RIGHT",
+          "weight": 0.32969576
+        },
+        {
+          "id": "Coverage",
+          "order": 8,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "Key Promoter X",
+          "order": 9,
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "weight": 0.32969576
+        },
+        {
+          "id": "Mybatis Sql",
           "order": 10,
-          "anchor": "RIGHT"
+          "anchor": "RIGHT",
+          "weight": 0.3865741
         },
         {
           "id": "GitHub Copilot Chat",
           "order": 11,
-          "anchor": "RIGHT"
+          "anchor": "RIGHT",
+          "weight": 0.32969576
+        },
+        {
+          "id": "github.copilotToolWindow",
+          "order": 12,
+          "anchor": "RIGHT",
+          "weight": 0.32969576
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.250279,
-        "bottom": 0.33,
-        "right": 0.33
+        "left": 0.18816137,
+        "bottom": 0.32973891,
+        "right": 0.32969576
       }
     }
   }
