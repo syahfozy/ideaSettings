@@ -1,0 +1,9 @@
+<application>
+  <component name="aminer-codegeex">
+    <option name="telemetryConfigured" value="true" />
+    <option name="sessionId" value="445dc292-5f0e-4a26-8f17-fe1e68c0118c" />
+    <option name="configCacheSeconds" value="43200" />
+    <option name="minCompletionDelay" value="500" />
+    <option name="lastPluginVersion" value="2.2.0" />
+  </component>
+</application>

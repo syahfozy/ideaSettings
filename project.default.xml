@@ -1,0 +1,200 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AnalysisProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <option name="USE_PROJECT_LEVEL_SETTINGS" value="false" />
+        <list size="0" />
+      </component>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
+      <component name="CheckStyle-IDEA" serialisationVersion="2">
+        <checkstyleVersion>10.3.4</checkstyleVersion>
+        <scanScope>JavaOnly</scanScope>
+        <option name="locations">
+          <list>
+            <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
+            <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
+          </list>
+        </option>
+      </component>
+      <component name="CodeInsightWorkspaceSettings">
+        <option name="optimizeImportsOnTheFly" value="true" />
+      </component>
+      <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" />
+      <component name="GradleLocalSettings">
+        <option name="myGradleUserHome" value="$USER_HOME$/Env/gradle-7.1.1" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="true" />
+            <option name="mavenHome" value="$USER_HOME$/Env/apache-maven-3.6.3" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="lisong" />
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Abstraction issuesJava</id>
+              </State>
+              <State>
+                <id>Angular</id>
+              </State>
+              <State>
+                <id>Code style issuesJava</id>
+              </State>
+              <State>
+                <id>Code style issuesJavaScript and TypeScript</id>
+              </State>
+              <State>
+                <id>Control flow issuesJava</id>
+              </State>
+              <State>
+                <id>Data flowJava</id>
+              </State>
+              <State>
+                <id>Declaration redundancyJava</id>
+              </State>
+              <State>
+                <id>EmbeddedPerformanceJava</id>
+              </State>
+              <State>
+                <id>Error handlingGroovy</id>
+              </State>
+              <State>
+                <id>Error handlingJava</id>
+              </State>
+              <State>
+                <id>Groovy</id>
+              </State>
+              <State>
+                <id>Imports and dependenciesJavaScript and TypeScript</id>
+              </State>
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Java 8Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>Java language level migration aidsJava</id>
+              </State>
+              <State>
+                <id>JavaScript and TypeScript</id>
+              </State>
+              <State>
+                <id>Markdown</id>
+              </State>
+              <State>
+                <id>MongoJS</id>
+              </State>
+              <State>
+                <id>Nullability problemsProbable bugsJava</id>
+              </State>
+              <State>
+                <id>PerformanceJava</id>
+              </State>
+              <State>
+                <id>Probable bugsJava</id>
+              </State>
+              <State>
+                <id>SQL</id>
+              </State>
+              <State>
+                <id>Threading issuesJava</id>
+              </State>
+              <State>
+                <id>Try statement issuesJavaScript and TypeScript</id>
+              </State>
+              <State>
+                <id>Verbose or redundant code constructsJava</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>Ali-Check</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="ProjectViewState">
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="project.structure.last.edited" value="Libraries" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.41609195" />
+        <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+      </component>
+      <component name="SaveActionSettings">
+        <option name="actions">
+          <set>
+            <option value="activate" />
+            <option value="activateOnShortcut" />
+            <option value="organizeImports" />
+            <option value="reformat" />
+          </set>
+        </option>
+        <option name="configurationPath" value="" />
+      </component>
+      <component name="SuppressionsComponent">
+        <option name="suppComments" value="[]" />
+      </component>
+      <component name="arthas.idea.plugin">
+        <option name="redisAddress" value="" />
+        <option name="redisAuth" value="" />
+        <option name="redisCacheKey" value="" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI" />
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.41609195" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.41609195" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
