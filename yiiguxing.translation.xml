@@ -71,6 +71,9 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="358" />
     <histories>
+      <item value="apparently First Queued Is Exclusive" />
+      <item value="As a heuristic to avoid indefinite writer starvation, block if the thread that momentarily appears to be head of queue, if one exists, is a waiting writer. This is only a probabilistic effect since a new reader will not block if there is a waiting writer behind other enabled readers that have not yet drained from the queue." />
+      <item value="This code is in part redundant with that in tryAcquireShared but is simpler overall by not complicating tryAcquireShared with interactions between retries and lazily reading hold counts." />
       <item value="is Held Exclusively" />
       <item value="Block current thread, returning when a balancing unpark occurs, or a balancing unpark has already occurred, or the thread is interrupted, or, if not absolute and time is not zero, the given time nanoseconds have elapsed, or if absolute, the given deadline in milliseconds since Epoch has passed, or spuriously (i.e., returning for no &quot;reason&quot;). Note: This operation is in the Unsafe class only because unpark is, so it would be strange to place it elsewhere." />
       <item value="Atomically increments by one the current value of the field of the given object managed by this updater." />
@@ -118,14 +121,11 @@
       <item value="Abstract Ns Store" />
       <item value="manual Push" />
       <item value="Candidate" />
-      <item value="A general-purpose bimap implementation using any two backing {@code Map} instances. &lt;p&gt;Note that this class contains {@code equals()} calls that keep it from supporting {@code IdentityHashMap} backing maps." />
-      <item value="A {@link ListenableFuture} whose result can be set by a {@link set(Object)}, {@link setException(Throwable)} or {@link setFuture(ListenableFuture)} call. It can also, like any other {@code Future}, be {@linkplain cancel cancelled}. &lt;p&gt;{@code SettableFuture} is the recommended {@code ListenableFuture} implementation when your task is not a good fit for a {@link ListeningExecutorService} task. If your needs are more complex than {@code SettableFuture} supports, use {@link AbstractFuture}, which offers an extensible version of the API." />
-      <item value="A rate limiter. Conceptually, a rate limiter distributes permits at a configurable rate. Each {@link acquire()} blocks if necessary until a permit is available, and then takes it. Once acquired, permits need not be released. &lt;p&gt;Rate limiters are often used to restrict the rate at which some physical or logical resource is accessed. This is in contrast to {@link java.util.concurrent.Semaphore} which restricts the number of concurrent accesses instead of the rate (note though that concurrency and rate are closely related, e.g. see &lt;a href=&quot;http:en.wikipedia.orgwikiLittle%27s_law&quot;&gt;Little's Law&lt;a&gt;). &lt;p&gt;A {@code RateLimiter} is defined primarily by the rate at which permits are issued. Absent additional configuration, permits will be distributed at a fixed rate, defined in terms of permits per second. Permits will be distributed smoothly, with the delay between individual permits being adjusted to ensure that the configured rate is maintained. &lt;p&gt;It is possible to configure a {@code RateLimiter} to have a warmup period during which time the permits issued each second steadily increases until it hits the stable rate. &lt;p&gt;As an example, imagine that we have a list of tasks to execute, but we don't want to submit more than 2 per second: &lt;pre&gt; {@code final RateLimiter rateLimiter = RateLimiter.create(2.0); rate is &quot;2 permits per second&quot; void submitTasks(List&lt;Runnable&gt; tasks, Executor executor) { for (Runnable task : tasks) { rateLimiter.acquire(); may wait executor.execute(task); } }}&lt;pre&gt; &lt;p&gt;As another example, imagine that we produce a stream of data, and we want to cap it at 5kb per second. This could be accomplished by requiring a permit per byte, and specifying a rate of 5000 permits per second: &lt;pre&gt; {@code final RateLimiter rateLimiter = RateLimiter.create(5000.0); rate = 5000 permits per second void submitPacket(byte[] packet) { rateLimiter.acquire(packet.length); networkService.send(packet); }}&lt;pre&gt; &lt;p&gt;It is important to note that the number of permits requested &lt;i&gt;never&lt;i&gt; affects the throttling of the request itself (an invocation to {@code acquire(1)} and an invocation to {@code acquire(1000)} will result in exactly the same throttling, if any), but it affects the throttling of the &lt;i&gt;next&lt;i&gt; request. I.e., if an expensive task arrives at an idle RateLimiter, it will be granted immediately, but it is the &lt;i&gt;next&lt;i&gt; request that will experience extra throttling, thus paying for the cost of the expensive task. &lt;p&gt;Note: {@code RateLimiter} does not provide fairness guarantees." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="51" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
