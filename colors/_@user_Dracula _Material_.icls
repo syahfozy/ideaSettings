@@ -4,7 +4,7 @@
     <property name="created">2022-11-18T13:14:59</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2024-02-29T21:08:23</property>
+    <property name="modified">2024-02-29T21:09:19</property>
     <property name="originalScheme">Dracula (Material)</property>
     <property name="partialSave">true</property>
   </metaInfo>
@@ -20,18 +20,11 @@
   <colors>
     <option name="ANNOTATIONS_COLOR" value="282a36" />
     <option name="FILESTATUS_ADDED" value="c3e887" />
-    <option name="FILESTATUS_COPIED" value="c3e88d" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fc9867" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="98c379" />
-    <option name="FILESTATUS_MERGED" value="c792ea" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
@@ -39,9 +32,6 @@
     <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="ffcb6b" />
-    <option name="FILESTATUS_changelistConflict" value="fc9867" />
-    <option name="FILESTATUS_modifiedOutside" value="c792ea" />
     <option name="NOTIFICATION_BACKGROUND" value="282a36" />
   </colors>
   <attributes>
