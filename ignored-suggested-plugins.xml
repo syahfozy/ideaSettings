@@ -6,6 +6,7 @@
         <option value="com.intellij.guice" />
         <option value="com.intellij.spring.websocket" />
         <option value="com.intellij.dubbo" />
+        <option value="com.intellij.spring.ws" />
       </list>
     </option>
   </component>
