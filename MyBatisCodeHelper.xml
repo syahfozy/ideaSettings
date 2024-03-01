@@ -4,7 +4,6 @@
       <Profile>
         <option name="maxMeetContext" value="40" />
         <option name="useFreeVersion" value="true" />
-        <option name="valid" value="true" />
       </Profile>
     </option>
   </component>
