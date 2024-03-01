@@ -7,8 +7,8 @@
     <entry key="ide.experimental.ui" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="ide.animate.toolwindows" value="true" />
-    <entry key="editor.focus.mode.color.light" value="777777" />
-    <entry key="editor.focus.mode.color.dark" value="777777" />
+    <entry key="editor.focus.mode.color.light" value="415967" />
+    <entry key="editor.focus.mode.color.dark" value="415967" />
     <entry key="ide.editor.tab.selection.animation" value="true" />
     <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
   </component>
@@ -31,7 +31,6 @@
         <entry key="com.tabnine.statusBar.TabnineStatusBarWidget" value="false" />
         <entry key="leetcode-editor-TimerStatusBar" value="false" />
         <entry key="mtProjectFactory" value="false" />
-        <entry key="mtThemeFactory" value="false" />
         <entry key="webDeployment.default.server.widget" value="false" />
       </map>
     </option>
