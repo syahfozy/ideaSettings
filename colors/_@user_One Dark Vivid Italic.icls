@@ -3,7 +3,7 @@
     <property name="created">2022-11-18T13:12:30</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.1.0.0</property>
-    <property name="modified">2024-02-29T21:12:28</property>
+    <property name="modified">2024-03-02T08:43:27</property>
     <property name="originalScheme">One Dark Vivid Italic</property>
     <property name="partialSave">true</property>
   </metaInfo>
@@ -33,19 +33,4 @@
     <option name="FILESTATUS_modifiedOutside" value="9580ff" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
   </colors>
-  <attributes>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value />
-    </option>
-    <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="MATCHED_BRACE_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="515a6b" />
-      </value>
-    </option>
-  </attributes>
 </scheme>
