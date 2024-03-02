@@ -357,6 +357,7 @@
           "id": "Coverage",
           "order": 13,
           "anchor": "RIGHT",
+          "isShowStripeButton": false,
           "isSplit": true
         },
         {
