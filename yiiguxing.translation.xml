@@ -71,6 +71,7 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="358" />
     <histories>
+      <item value="Meaningful only if the MaxLen entry is present in the text field dictionary and if the Multiline, Password, and FileSelect flags are clear. If true, the field is automatically divided into as many equally spaced positions, or combs, as the value of MaxLen, and the text is laid out into those combs. Returns: whether or not combing is enabled" />
       <item value="value – of the field generateAppearance – set this flat to false if you want to keep the appearance of the field generated before" />
       <item value="apparently First Queued Is Exclusive" />
       <item value="As a heuristic to avoid indefinite writer starvation, block if the thread that momentarily appears to be head of queue, if one exists, is a waiting writer. This is only a probabilistic effect since a new reader will not block if there is a waiting writer behind other enabled readers that have not yet drained from the queue." />
@@ -120,7 +121,6 @@
       <item value="Defines the logic to validate a given constraint A for a given object type T. Implementations must comply to the following restriction: T must resolve to a non parameterized type or generic parameters of T must be unbounded wildcard types The annotation SupportedValidationTarget can be put on a ConstraintValidator implementation to mark it as supporting cross-parameter constraints. Check out SupportedValidationTarget and Constraint for more information. Author: Emmanuel Bernard, Hardy Ferentschik" />
       <item value="Constraint Validator" />
       <item value="Abstract Ns Store" />
-      <item value="manual Push" />
     </histories>
     <option name="languageScores">
       <map>
