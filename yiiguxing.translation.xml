@@ -61,7 +61,7 @@
     <option name="lastTrimTime" value="1674826721317" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1709212912587" />
+    <option name="lastTrimTime" value="1710228169140" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -71,6 +71,7 @@
     <option name="newTranslationDialogX" value="793" />
     <option name="newTranslationDialogY" value="358" />
     <histories>
+      <item value="value – of the field generateAppearance – set this flat to false if you want to keep the appearance of the field generated before" />
       <item value="apparently First Queued Is Exclusive" />
       <item value="As a heuristic to avoid indefinite writer starvation, block if the thread that momentarily appears to be head of queue, if one exists, is a waiting writer. This is only a probabilistic effect since a new reader will not block if there is a waiting writer behind other enabled readers that have not yet drained from the queue." />
       <item value="This code is in part redundant with that in tryAcquireShared but is simpler overall by not complicating tryAcquireShared with interactions between retries and lazily reading hold counts." />
@@ -120,12 +121,11 @@
       <item value="Constraint Validator" />
       <item value="Abstract Ns Store" />
       <item value="manual Push" />
-      <item value="Candidate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="51" />
+        <entry key="ENGLISH" value="52" />
         <entry key="LATIN" value="1" />
       </map>
     </option>
