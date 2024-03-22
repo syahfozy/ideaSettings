@@ -103,7 +103,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.10456942
+          "weight": 0.10463169
         },
         {
           "id": "Bookmarks",
@@ -128,12 +128,6 @@
           "isSplit": true
         },
         {
-          "id": "TODO",
-          "order": 5,
-          "weight": 0.31498295,
-          "isSplit": true
-        },
-        {
           "id": "Leetcode",
           "order": 6,
           "isSplit": true
@@ -147,6 +141,11 @@
           "id": "JRebel",
           "order": 8,
           "isSplit": true
+        },
+        {
+          "id": "TODO",
+          "order": 9,
+          "weight": 0.31498295
         },
         {
           "id": "Database Changes",
@@ -170,6 +169,11 @@
         },
         {
           "id": "File Transfer",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Find",
           "anchor": "BOTTOM",
           "isShowStripeButton": false
         },
@@ -288,8 +292,6 @@
           "id": "Maven",
           "order": 4,
           "anchor": "RIGHT",
-          "isActiveOnStart": true,
-          "isVisible": true,
           "weight": 0.25043935
         },
         {
@@ -304,12 +306,6 @@
           "order": 6,
           "anchor": "RIGHT",
           "weight": 0.32969576
-        },
-        {
-          "id": "Hierarchy",
-          "order": 7,
-          "anchor": "RIGHT",
-          "weight": 0.2844171
         },
         {
           "id": "Coverage",
@@ -342,13 +338,20 @@
           "order": 12,
           "anchor": "RIGHT",
           "weight": 0.32969576
+        },
+        {
+          "id": "Hierarchy",
+          "order": 13,
+          "anchor": "RIGHT",
+          "weight": 0.2843192,
+          "isSplit": true
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.10456942,
+        "left": 0.10463169,
         "bottom": 0.2144259,
-        "right": 0.25043935
+        "right": 0.2843192
       }
     }
   }
