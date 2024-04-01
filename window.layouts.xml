@@ -82,7 +82,19 @@
     "SF Layout": {
       "v2": [
         {
+          "id": "Space Code Reviews",
+          "isShowStripeButton": false
+        },
+        {
           "id": "Merge Requests",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Pull Requests",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Learn",
           "isShowStripeButton": false
         },
         {
@@ -120,9 +132,29 @@
           "weight": 0.32969576
         },
         {
-          "id": "Version Control",
-          "order": 0,
-          "anchor": "BOTTOM"
+          "id": "Database Changes",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "TypeScript",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Profiler",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "File Transfer",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Find",
+          "anchor": "BOTTOM",
+          "isShowStripeButton": false
         },
         {
           "id": "Problems",
@@ -144,30 +176,51 @@
           "id": "Services",
           "order": 4,
           "anchor": "BOTTOM",
-          "weight": 0.33011365
+          "weight": 0.33035713
+        },
+        {
+          "id": "Version Control",
+          "order": 5,
+          "anchor": "BOTTOM"
         },
         {
           "id": "SequenceDiagram",
-          "order": 5,
+          "order": 6,
           "anchor": "BOTTOM",
           "isShowStripeButton": false
         },
         {
           "id": "Build",
-          "order": 6,
+          "order": 7,
           "anchor": "BOTTOM"
         },
         {
           "id": "Debug",
-          "order": 6,
+          "order": 7,
           "anchor": "BOTTOM",
           "weight": 0.33011365
         },
         {
           "id": "Run",
-          "order": 6,
+          "order": 7,
           "anchor": "BOTTOM",
           "weight": 0.33011365
+        },
+        {
+          "id": "Endpoints",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
+        },
+        {
+          "id": "Mybatis datasource",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false,
+          "isSplit": true
+        },
+        {
+          "id": "Beans",
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
         },
         {
           "id": "Notifications",
@@ -243,7 +296,7 @@
       "unifiedWeights": {
         "top": 0.33,
         "left": 0.33035713,
-        "bottom": 0.33011365,
+        "bottom": 0.33035713,
         "right": 0.32969576
       }
     }
