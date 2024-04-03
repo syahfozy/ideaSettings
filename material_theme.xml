@@ -18,6 +18,7 @@
     <option name="useColoredDirectories" value="true" />
     <option name="indicatorStyle" value="None" />
     <option name="customSidebarHeight" value="20" />
+    <option name="tabFontSize" value="14" />
     <option name="leftTreeIndent" value="4" />
     <option name="rightTreeIndent" value="6" />
     <option name="tabsHeight" value="24" />
