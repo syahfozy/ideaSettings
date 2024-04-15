@@ -101,59 +101,40 @@
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.20284599
-        },
-        {
-          "id": "Bookmarks",
-          "order": 1,
-          "weight": 0.2670201
+          "weight": 0.17532943
         },
         {
           "id": "Commit",
-          "order": 2,
-          "weight": 0.17550224
+          "order": 1,
+          "weight": 0.25
         },
         {
           "id": "Welcome to GitHub Copilot",
+          "order": 2,
+          "isShowStripeButton": false,
+          "weight": 0.32969576
+        },
+        {
+          "id": "TODO",
           "order": 3,
-          "isShowStripeButton": false
+          "weight": 0.33035713,
+          "isSplit": true
         },
         {
           "id": "Structure",
           "order": 4,
-          "isShowStripeButton": false,
           "weight": 0.25,
           "isSplit": true
         },
         {
-          "id": "Leetcode",
+          "id": "Bookmarks",
           "order": 5,
-          "isSplit": true
+          "weight": 0.32979503
         },
         {
           "id": "VcsChanges",
-          "order": 6,
-          "weight": 0.2686942
-        },
-        {
-          "id": "JRebel",
-          "order": 7,
-          "isSplit": true
-        },
-        {
-          "id": "TODO",
-          "order": 8,
-          "floatingBounds": [
-            434,
-            136,
-            564,
-            908
-          ],
-          "type": "FLOATING",
-          "isActiveOnStart": true,
-          "weight": 0.3148799
+          "order": 5,
+          "weight": 0.32979503
         },
         {
           "id": "Database Changes",
@@ -168,7 +149,7 @@
         {
           "id": "Leetcode Console",
           "anchor": "BOTTOM",
-          "isShowStripeButton": false
+          "weight": 0.2673872
         },
         {
           "id": "Profiler",
@@ -181,11 +162,6 @@
           "isShowStripeButton": false
         },
         {
-          "id": "Find",
-          "anchor": "BOTTOM",
-          "isShowStripeButton": false
-        },
-        {
           "id": "Problems",
           "order": 1,
           "anchor": "BOTTOM"
@@ -194,67 +170,49 @@
           "id": "Problems View",
           "order": 2,
           "anchor": "BOTTOM",
-          "weight": 0.32973891
+          "weight": 0.33011365
         },
         {
           "id": "Terminal",
           "order": 3,
-          "anchor": "BOTTOM",
-          "weight": 0.32996434
+          "anchor": "BOTTOM"
         },
         {
           "id": "Services",
           "order": 4,
           "anchor": "BOTTOM",
-          "isShowStripeButton": false,
-          "weight": 0.32996434
+          "weight": 0.33011365
         },
         {
-          "id": "Run",
+          "id": "SequenceDiagram",
           "order": 5,
           "anchor": "BOTTOM",
-          "weight": 0.3302257
+          "isShowStripeButton": false
         },
         {
           "id": "Build",
           "order": 6,
           "anchor": "BOTTOM",
-          "weight": 0.2144259
+          "weight": 0.33035713
         },
         {
           "id": "Version Control",
           "order": 7,
-          "anchor": "BOTTOM",
-          "isActiveOnStart": true,
-          "isVisible": true,
-          "weight": 0.32924438
+          "anchor": "BOTTOM"
         },
         {
           "id": "Debug",
           "order": 8,
           "anchor": "BOTTOM",
-          "weight": 0.31354266
+          "isShowStripeButton": false,
+          "weight": 0.33035713
         },
         {
-          "id": "CheckStyle",
+          "id": "Run",
           "order": 9,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "JRebel Console",
-          "order": 10,
           "anchor": "BOTTOM",
-          "isSplit": true
-        },
-        {
-          "id": "SequenceDiagram",
-          "order": 11,
-          "anchor": "BOTTOM"
-        },
-        {
-          "id": "Analysis",
-          "order": 12,
-          "anchor": "BOTTOM"
+          "isShowStripeButton": false,
+          "weight": 0.22321428
         },
         {
           "id": "Endpoints",
@@ -276,7 +234,8 @@
           "id": "Notifications",
           "order": 0,
           "anchor": "RIGHT",
-          "weight": 0.25035715
+          "contentUiType": "COMBO",
+          "weight": 0.25
         },
         {
           "id": "AIAssistant",
@@ -298,10 +257,9 @@
           "weight": 0.25
         },
         {
-          "id": "Maven",
+          "id": "Key Promoter X",
           "order": 4,
-          "anchor": "RIGHT",
-          "weight": 0.25043935
+          "anchor": "RIGHT"
         },
         {
           "id": "Translation.Wordbook",
@@ -311,56 +269,58 @@
           "isSplit": true
         },
         {
-          "id": "pdai.tech",
+          "id": "Maven",
           "order": 6,
           "anchor": "RIGHT",
-          "weight": 0.32969576
+          "weight": 0.25
         },
         {
-          "id": "Coverage",
+          "id": "pdai.tech",
           "order": 7,
-          "anchor": "RIGHT",
-          "isShowStripeButton": false,
-          "isSplit": true
-        },
-        {
-          "id": "Key Promoter X",
-          "order": 8,
-          "anchor": "RIGHT",
-          "isShowStripeButton": false,
-          "weight": 0.32969576
+          "anchor": "RIGHT"
         },
         {
           "id": "Mybatis Sql",
+          "order": 8,
+          "anchor": "RIGHT"
+        },
+        {
+          "id": "Hierarchy",
           "order": 9,
           "anchor": "RIGHT",
-          "weight": 0.3865741
+          "weight": 0.32979503
         },
         {
           "id": "GitHub Copilot Chat",
           "order": 10,
-          "anchor": "RIGHT",
-          "weight": 0.32928872
+          "anchor": "RIGHT"
         },
         {
           "id": "github.copilotToolWindow",
           "order": 11,
-          "anchor": "RIGHT",
-          "weight": 0.32969576
+          "anchor": "RIGHT"
         },
         {
-          "id": "Hierarchy",
+          "id": "Coverage",
           "order": 12,
           "anchor": "RIGHT",
-          "weight": 0.42606026,
+          "isShowStripeButton": false,
+          "weight": 0.32979503,
+          "isSplit": true
+        },
+        {
+          "id": "Leetcode",
+          "order": 12,
+          "anchor": "RIGHT",
+          "weight": 0.32979503,
           "isSplit": true
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.17550224,
-        "bottom": 0.32924438,
-        "right": 0.42606026
+        "left": 0.32979503,
+        "bottom": 0.22321428,
+        "right": 0.32979503
       }
     }
   }
