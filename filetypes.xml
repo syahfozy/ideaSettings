@@ -2,6 +2,13 @@
   <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping pattern="myid" type="AUTO_DETECTED" />
+      <mapping pattern="bowerrc" type="JSON" />
+      <mapping pattern="jest.config" type="JSON" />
+      <mapping pattern=".eslintrc" type="JSON" />
+      <mapping pattern=".stylelintrc" type="JSON" />
+      <mapping pattern=".babelrc" type="JSON" />
+      <mapping ext="jsb2" type="JSON" />
+      <mapping ext="jsb3" type="JSON" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="parameters" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
