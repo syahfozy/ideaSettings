@@ -23,7 +23,7 @@
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
+    <pattern case-sensitive="true" pattern="\bTODO: lisong\b.*" />
     <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
