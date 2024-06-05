@@ -4,7 +4,7 @@
       <map>
         <entry key="compiler.automake.allow.when.app.running" value="true" />
         <entry key="confirm.rerun.with.termination" value="false" />
-        <entry key="ide.max.recent.projects" value="150" />
+        <entry key="ide.max.recent.projects" value="200" />
         <entry key="show.diff.as.editor.tab" value="false" />
       </map>
     </option>
