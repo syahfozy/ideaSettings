@@ -1,9 +1,12 @@
 <application>
   <component name="aminer-codegeex">
     <option name="telemetryConfigured" value="true" />
-    <option name="sessionId" value="445dc292-5f0e-4a26-8f17-fe1e68c0118c" />
+    <option name="macAddress" value="7E-E9-1E-76-26-8F" />
     <option name="configCacheSeconds" value="43200" />
     <option name="minCompletionDelay" value="500" />
-    <option name="lastPluginVersion" value="2.2.0" />
+    <option name="autoUpdateVersion" value="2.7.3" />
+    <option name="autoUpdateProperty" value="{ &quot;auto&quot;: true, &quot;is_force&quot;: false }" />
+    <option name="applyNextLineCount" value="4" />
+    <option name="lastPluginVersion" value="2.10.2-223" />
   </component>
 </application>
