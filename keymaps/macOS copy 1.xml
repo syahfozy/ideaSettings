@@ -13,6 +13,9 @@
     <keyboard-shortcut first-keystroke="shift meta alt o" />
   </action>
   <action id="EditorCompleteStatement" />
+  <action id="StringManipulation.442b8a7c-5c4b-45d2-a411-c785f2100430">
+    <keyboard-shortcut first-keystroke="ctrl meta alt p" />
+  </action>
   <action id="Terminal.SmartCommandExecution.Debug" />
   <action id="copilot.cycleNextInlays">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
