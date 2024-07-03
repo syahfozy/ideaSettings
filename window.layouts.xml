@@ -101,12 +101,14 @@
           "id": "Project",
           "order": 0,
           "contentUiType": "COMBO",
-          "weight": 0.17532943
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.27087379
         },
         {
           "id": "Commit",
           "order": 1,
-          "weight": 0.25
+          "weight": 0.25016183
         },
         {
           "id": "Welcome to GitHub Copilot",
@@ -133,8 +135,8 @@
         },
         {
           "id": "VcsChanges",
-          "order": 5,
-          "weight": 0.32979503
+          "order": 6,
+          "weight": 0.20809062
         },
         {
           "id": "Database Changes",
@@ -163,56 +165,62 @@
         },
         {
           "id": "Problems",
-          "order": 1,
+          "order": 0,
           "anchor": "BOTTOM"
         },
         {
           "id": "Problems View",
-          "order": 2,
+          "order": 1,
           "anchor": "BOTTOM",
-          "weight": 0.33011365
+          "weight": 0.32975572
         },
         {
           "id": "Terminal",
-          "order": 3,
-          "anchor": "BOTTOM"
+          "order": 2,
+          "anchor": "BOTTOM",
+          "weight": 0.32975572
         },
         {
           "id": "Services",
-          "order": 4,
+          "order": 3,
           "anchor": "BOTTOM",
-          "weight": 0.33011365
+          "weight": 0.32975572
         },
         {
           "id": "SequenceDiagram",
-          "order": 5,
+          "order": 4,
           "anchor": "BOTTOM",
           "isShowStripeButton": false
         },
         {
           "id": "Build",
-          "order": 6,
+          "order": 5,
           "anchor": "BOTTOM",
-          "weight": 0.33035713
+          "weight": 0.3303887
         },
         {
           "id": "Version Control",
-          "order": 7,
-          "anchor": "BOTTOM"
+          "order": 6,
+          "anchor": "BOTTOM",
+          "weight": 0.12756184
         },
         {
           "id": "Debug",
+          "order": 7,
+          "anchor": "BOTTOM",
+          "weight": 0.3303887
+        },
+        {
+          "id": "Duplicates",
           "order": 8,
           "anchor": "BOTTOM",
-          "isShowStripeButton": false,
-          "weight": 0.33035713
+          "weight": 0.329682
         },
         {
           "id": "Run",
           "order": 9,
           "anchor": "BOTTOM",
-          "isShowStripeButton": false,
-          "weight": 0.22321428
+          "weight": 0.31484097
         },
         {
           "id": "Endpoints",
@@ -293,7 +301,8 @@
         {
           "id": "GitHub Copilot Chat",
           "order": 10,
-          "anchor": "RIGHT"
+          "anchor": "RIGHT",
+          "isShowStripeButton": false
         },
         {
           "id": "github.copilotToolWindow",
@@ -310,16 +319,22 @@
         },
         {
           "id": "Leetcode",
-          "order": 12,
+          "order": 13,
           "anchor": "RIGHT",
           "weight": 0.32979503,
           "isSplit": true
+        },
+        {
+          "id": " Fitten Code Chat",
+          "order": 14,
+          "anchor": "RIGHT",
+          "weight": 0.32977346
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.32979503,
-        "bottom": 0.22321428,
+        "left": 0.27087379,
+        "bottom": 0.3303887,
         "right": 0.32979503
       }
     }

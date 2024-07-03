@@ -1,0 +1,11 @@
+<application>
+  <component name="co.fitten.llmintellij.LlmSettingsState">
+    <option name="enabled_global" value="false" />
+    <option name="userData">
+      <UserData>
+        <option name="apiKey" value="FT_DlpmlaEKL2wCeT8xANHEt5RMVD2bRK4L8PLwlh6kjWRFgHMDsB" />
+        <option name="panelState" value="{&quot;type&quot;:&quot;chat&quot;,&quot;conversations&quot;:[],&quot;selectedConversationId&quot;:&quot;&quot;,&quot;hasFittenAIApiKey&quot;:true,&quot;surfacePromptForFittenAIPlus&quot;:false}" />
+      </UserData>
+    </option>
+  </component>
+</application>
