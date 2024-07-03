@@ -4,7 +4,7 @@
     <option name="userData">
       <UserData>
         <option name="apiKey" value="FT_DlpmlaEKL2wCeT8xANHEt5RMVD2bRK4L8PLwlh6kjWRFgHMDsB" />
-        <option name="panelState" value="{&quot;type&quot;:&quot;chat&quot;,&quot;conversations&quot;:[],&quot;selectedConversationId&quot;:&quot;&quot;,&quot;hasFittenAIApiKey&quot;:true,&quot;surfacePromptForFittenAIPlus&quot;:false}" />
+        <option name="panelState" value="{&quot;type&quot;:&quot;chat&quot;,&quot;conversations&quot;:[{&quot;id&quot;:&quot;t95ozg5ru&quot;,&quot;header&quot;:{&quot;title&quot;:&quot;生成代码&quot;,&quot;isTitleMessage&quot;:true,&quot;codicon&quot;:&quot;wand&quot;},&quot;content&quot;:{&quot;type&quot;:&quot;messageExchange&quot;,&quot;messages&quot;:[],&quot;state&quot;:{&quot;type&quot;:&quot;userCanReply&quot;,&quot;responsePlaceholder&quot;:&quot;输入指示...&quot;}},&quot;inputs&quot;:&quot;&quot;},{&quot;id&quot;:&quot;vwfzfyc1a&quot;,&quot;header&quot;:{&quot;title&quot;:&quot;生成代码&quot;,&quot;isTitleMessage&quot;:true,&quot;codicon&quot;:&quot;wand&quot;},&quot;content&quot;:{&quot;type&quot;:&quot;messageExchange&quot;,&quot;messages&quot;:[],&quot;state&quot;:{&quot;type&quot;:&quot;userCanReply&quot;,&quot;responsePlaceholder&quot;:&quot;输入指示...&quot;}},&quot;inputs&quot;:&quot;&quot;}],&quot;selectedConversationId&quot;:&quot;vwfzfyc1a&quot;,&quot;hasFittenAIApiKey&quot;:true,&quot;surfacePromptForFittenAIPlus&quot;:false}" />
       </UserData>
     </option>
   </component>
