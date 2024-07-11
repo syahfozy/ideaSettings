@@ -103,7 +103,7 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.27087379
+          "weight": 0.16170634
         },
         {
           "id": "Commit",
@@ -131,7 +131,7 @@
         {
           "id": "Bookmarks",
           "order": 5,
-          "weight": 0.32979503
+          "weight": 0.28207672
         },
         {
           "id": "VcsChanges",
@@ -302,12 +302,13 @@
           "id": "GitHub Copilot Chat",
           "order": 10,
           "anchor": "RIGHT",
-          "isShowStripeButton": false
+          "weight": 0.32969576
         },
         {
           "id": "github.copilotToolWindow",
           "order": 11,
-          "anchor": "RIGHT"
+          "anchor": "RIGHT",
+          "weight": 0.32969576
         },
         {
           "id": "Coverage",
@@ -328,14 +329,15 @@
           "id": " Fitten Code Chat",
           "order": 14,
           "anchor": "RIGHT",
-          "weight": 0.32977346
+          "isShowStripeButton": false,
+          "weight": 0.32952547
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.27087379,
+        "left": 0.28207672,
         "bottom": 0.3303887,
-        "right": 0.32979503
+        "right": 0.32969576
       }
     }
   }
