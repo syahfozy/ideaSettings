@@ -1,11 +1,13 @@
 <application>
   <component name="UISettings">
+    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="10240" />
     <option name="DISABLE_MNEMONICS" value="false" />
     <option name="EDITOR_TAB_LIMIT" value="20" />
     <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
     <option name="LEFT_HORIZONTAL_SPLIT" value="true" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="13" />
     <option name="MAX_LOOKUP_WIDTH2" value="713" />
+    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
     <option name="PIN_FIND_IN_PATH_POPUP" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="18" />
     <option name="RECENT_FILES_LIMIT" value="100" />
