@@ -64,8 +64,8 @@
     <option name="lastTrimTime" value="1722043351695" />
   </component>
   <component name="Translation.Settings">
+    <option name="primaryFontPreviewText" value="This is a sample&#10;multiline text" />
     <option name="primaryLanguage" value="CHINESE" />
-    <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
