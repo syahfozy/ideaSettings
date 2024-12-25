@@ -79,5 +79,19 @@
         <option name="textWithMnemonic" value="驼峰/大写下划线" />
       </UniversalActionModel>
     </option>
+    <option name="sortSettings">
+      <SortSettings>
+        <option name="collatorLanguageTag" value="en_US" />
+      </SortSettings>
+    </option>
+    <option name="sortTokensModel">
+      <SortTokensModel>
+        <option name="sortSettings">
+          <SortSettings>
+            <option name="collatorLanguageTag" value="en_US" />
+          </SortSettings>
+        </option>
+      </SortTokensModel>
+    </option>
   </component>
 </application>
