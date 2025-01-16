@@ -2,6 +2,9 @@
   <component name="DiffApplicationSettings">
     <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
+  <component name="HostVcsAppSettings">
+    <option name="createChangeListsForGuestChanges" value="false" />
+  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
       <list>
