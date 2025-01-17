@@ -103,12 +103,13 @@
           "contentUiType": "COMBO",
           "isActiveOnStart": true,
           "isVisible": true,
-          "weight": 0.16170634
+          "weight": 0.25496033,
+          "sideWeight": 0.5019531
         },
         {
           "id": "Commit",
           "order": 1,
-          "weight": 0.25016183
+          "weight": 0.20072751
         },
         {
           "id": "Welcome to GitHub Copilot",
@@ -119,24 +120,29 @@
         {
           "id": "TODO",
           "order": 3,
-          "weight": 0.33035713,
+          "weight": 0.25297618,
+          "sideWeight": 0.49804688,
           "isSplit": true
         },
         {
           "id": "Structure",
           "order": 4,
-          "weight": 0.25,
+          "weight": 0.22453704,
           "isSplit": true
         },
         {
           "id": "Bookmarks",
           "order": 5,
-          "weight": 0.28207672
+          "weight": 0.32952547
+        },
+        {
+          "id": " Fitten Code Chat",
+          "order": 6
         },
         {
           "id": "VcsChanges",
-          "order": 6,
-          "weight": 0.20809062
+          "order": 7,
+          "weight": 0.20205027
         },
         {
           "id": "Database Changes",
@@ -151,7 +157,7 @@
         {
           "id": "Leetcode Console",
           "anchor": "BOTTOM",
-          "weight": 0.2673872
+          "weight": 0.26783693
         },
         {
           "id": "Profiler",
@@ -164,6 +170,11 @@
           "isShowStripeButton": false
         },
         {
+          "id": "Find",
+          "anchor": "BOTTOM",
+          "weight": 0.3918728
+        },
+        {
           "id": "Problems",
           "order": 0,
           "anchor": "BOTTOM"
@@ -172,60 +183,67 @@
           "id": "Problems View",
           "order": 1,
           "anchor": "BOTTOM",
-          "weight": 0.32975572
+          "weight": 0.33045977
         },
         {
           "id": "Terminal",
           "order": 2,
-          "anchor": "BOTTOM",
-          "weight": 0.32975572
+          "anchor": "BOTTOM"
         },
         {
           "id": "Services",
           "order": 3,
           "anchor": "BOTTOM",
-          "weight": 0.32975572
+          "weight": 0.3303887
         },
         {
           "id": "SequenceDiagram",
           "order": 4,
           "anchor": "BOTTOM",
-          "isShowStripeButton": false
+          "weight": 0.3297143
         },
         {
           "id": "Build",
           "order": 5,
           "anchor": "BOTTOM",
-          "weight": 0.3303887
+          "weight": 0.21781608
         },
         {
           "id": "Version Control",
           "order": 6,
           "anchor": "BOTTOM",
-          "weight": 0.12756184
+          "weight": 0.3300578
         },
         {
           "id": "Debug",
           "order": 7,
           "anchor": "BOTTOM",
-          "weight": 0.3303887
+          "isShowStripeButton": false,
+          "weight": 0.25722545
         },
         {
           "id": "Duplicates",
           "order": 8,
           "anchor": "BOTTOM",
-          "weight": 0.329682
+          "weight": 0.236
         },
         {
           "id": "Run",
           "order": 9,
           "anchor": "BOTTOM",
-          "weight": 0.31484097
+          "isShowStripeButton": false,
+          "weight": 0.2630058
         },
         {
           "id": "Endpoints",
           "anchor": "RIGHT",
           "isShowStripeButton": false
+        },
+        {
+          "id": "documentation.v2",
+          "anchor": "RIGHT",
+          "weight": 0.33011132,
+          "isSplit": true
         },
         {
           "id": "Mybatis datasource",
@@ -242,8 +260,7 @@
           "id": "Notifications",
           "order": 0,
           "anchor": "RIGHT",
-          "contentUiType": "COMBO",
-          "weight": 0.25
+          "weight": 0.24966931
         },
         {
           "id": "AIAssistant",
@@ -280,7 +297,7 @@
           "id": "Maven",
           "order": 6,
           "anchor": "RIGHT",
-          "weight": 0.25
+          "weight": 0.24900794
         },
         {
           "id": "pdai.tech",
@@ -296,19 +313,19 @@
           "id": "Hierarchy",
           "order": 9,
           "anchor": "RIGHT",
-          "weight": 0.32979503
+          "weight": 0.32952547
         },
         {
           "id": "GitHub Copilot Chat",
           "order": 10,
           "anchor": "RIGHT",
-          "weight": 0.32969576
+          "weight": 0.31136495
         },
         {
           "id": "github.copilotToolWindow",
           "order": 11,
           "anchor": "RIGHT",
-          "weight": 0.32969576
+          "weight": 0.33011132
         },
         {
           "id": "Coverage",
@@ -322,22 +339,21 @@
           "id": "Leetcode",
           "order": 13,
           "anchor": "RIGHT",
-          "weight": 0.32979503,
+          "weight": 0.32991803,
           "isSplit": true
         },
         {
-          "id": " Fitten Code Chat",
+          "id": "lc-helper",
           "order": 14,
           "anchor": "RIGHT",
-          "isShowStripeButton": false,
-          "weight": 0.32952547
+          "isSplit": true
         }
       ],
       "unifiedWeights": {
         "top": 0.33,
-        "left": 0.28207672,
-        "bottom": 0.3303887,
-        "right": 0.32969576
+        "left": 0.25496033,
+        "bottom": 0.3300578,
+        "right": 0.24900794
       }
     }
   }
