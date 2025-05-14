@@ -4,20 +4,10 @@
     <property name="created">2017-04-10T18:07:41</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2024-02-28T12:24:24</property>
+    <property name="modified">2025-05-14T15:40:40</property>
     <property name="originalScheme">Material Oceanic</property>
     <property name="pluginId">com.chrisrm.idea.MaterialThemeUI</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
@@ -26,6 +16,7 @@
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
@@ -67,26 +58,31 @@
     <option name="DOCUMENTATION_COLOR" value="3030" />
     <option name="DOC_COMMENT_GUIDE" value="1e621e" />
     <option name="DOC_COMMENT_LINK" value="89ddf7" />
-    <option name="FILESTATUS_ADDED" value="c3e88d" />
-    <option name="FILESTATUS_COPIED" value="c3e88d" />
-    <option name="FILESTATUS_DELETED" value="808080" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="808080" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="fc9867" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
+    <option name="FILESTATUS_ADDED" value="49d0c5" />
+    <option name="FILESTATUS_COPIED" value="49d0c5" />
+    <option name="FILESTATUS_DELETED" value="de3d3b" />
+    <option name="FILESTATUS_HIJACKED" value="2aa298" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="de3d3b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="93a1a1" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="c96765" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="c96765" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="c96765" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
-    <option name="FILESTATUS_MERGED" value="c792ea" />
-    <option name="FILESTATUS_MODIFIED" value="ffcc80" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="ffcc80" />
-    <option name="FILESTATUS_SUPPRESSED" value="5454" />
-    <option name="FILESTATUS_SWITCHED" value="c792ea" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="ffcb6b" />
-    <option name="FILESTATUS_changelistConflict" value="fc9867" />
-    <option name="FILESTATUS_modifiedOutside" value="c792ea" />
+    <option name="FILESTATUS_MERGED" value="e0af02" />
+    <option name="FILESTATUS_MODIFIED" value="6fbef6" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="2aa298" />
+    <option name="FILESTATUS_SUPPRESSED" value="403f53" />
+    <option name="FILESTATUS_SWITCHED" value="2aa298" />
+    <option name="FILESTATUS_UNKNOWN" value="4876d6" />
+    <option name="FILESTATUS_addedOutside" value="2aa298" />
+    <option name="FILESTATUS_changelistConflict" value="c96765" />
+    <option name="FILESTATUS_modifiedOutside" value="e0af02" />
     <option name="GUTTER_BACKGROUND" value="2828" />
     <option name="INDENT_GUIDE" value="3030" />
     <option name="INFORMATION_HINT" value="2828" />
@@ -1534,19 +1530,11 @@
         <option name="FOREGROUND" value="89ddff" />
       </value>
     </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FOREGROUND" value="89ddff" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="c3d3de" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -1921,10 +1909,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3838" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="ffcc00" />
-        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
