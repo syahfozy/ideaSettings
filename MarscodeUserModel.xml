@@ -1,0 +1,9 @@
+<application>
+  <component name="com.codeverse.userSettings.MarsCodeUserModelSettings">
+    <option name="userModelConfigs">
+      <map>
+        <entry key="3252824223523284" value="{&quot;modelConfig&quot;:{&quot;custom_config&quot;:&quot;{\&quot;apply_file_path\&quot;:true,\&quot;explain\&quot;:\&quot;深度思考\&quot;,\&quot;explain_en\&quot;:\&quot;Deep Reasoning\&quot;,\&quot;is_new_pe\&quot;:true,\&quot;model_type\&quot;:\&quot;reasoning_model\&quot;}&quot;,&quot;display_name&quot;:&quot;Deepseek-R1&quot;,&quot;is_default&quot;:false,&quot;multimodal&quot;:false,&quot;name&quot;:&quot;deepseek-R1&quot;},&quot;hasShownGuide&quot;:true,&quot;shouldShowChatGuidance&quot;:true,&quot;hasShowBuilderGuidance&quot;:true}" />
+      </map>
+    </option>
+  </component>
+</application>
