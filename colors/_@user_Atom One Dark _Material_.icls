@@ -4,7 +4,7 @@
     <property name="created">2024-05-21T14:50:21</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.3.6.0.0</property>
-    <property name="modified">2025-10-09T10:49:58</property>
+    <property name="modified">2025-10-09T10:53:27</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
     <property name="partialSave">true</property>
     <property name="pluginId">com.chrisrm.idea.MaterialThemeUI</property>
@@ -31,19 +31,6 @@
       <value>
         <option name="FOREGROUND" value="5f826b" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FOREGROUND" value="c3d3de" />
-      </value>
-    </option>
-    <option name="MATCHED_BRACE_ATTRIBUTES">
-      <value>
-        <option name="BACKGROUND" value="383d48" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="557ecf" />
-        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
   </attributes>
